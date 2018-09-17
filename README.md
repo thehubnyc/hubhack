@@ -79,3 +79,10 @@ Once you have credit, you can activate it by doing the following:
 
 
 
+### For Strategists
+
+[r/makeupaddiction](https://www.reddit.com/r/makeupaddiction) & [r/acne](https://www.reddit.com/r/acne) & [r/SkincareAddiction](http://www.reddit.com/r/SkincareAddiction/)- These three subreddit are great for finding common consumer problems to solve!
+
+[Google Datasets](https://toolbox.google.com/datasetsearch) - Google has indexed some of the best datasets, which can be used for research. Raw data for research.
+
+[Kaggle Datasets](https://www.kaggle.com/datasets) - Kaggle datasets are open-sourced datasets that are used in data science competitions.
