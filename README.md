@@ -1,4 +1,4 @@
-#Hub Hack Materials
+# Hub Hack Materials
 
 **Hub Hack: Beauty & Personal Care + Future of Voice Hackathon**
 
@@ -10,7 +10,7 @@ Welcome to the Hub Hack September 2018! As you're hacking and developing your pr
 
 **Sponsor Resources** - We're lucky to have a few partners for this event who have made the below tools available for use. Thank you to Jetson and AWS for your generous support! 
 
-##Jetson API
+## Jetson API
 
 Jetson's developer friendly API / SDK enables automated searching, convenient commerce, and intelligent recommendations for a frictionless buying experience. Jetson's API builds contextual and cognitive awareness over time through machine learning and provides a continuous conversation with end users over time. 
 
@@ -34,7 +34,7 @@ For additional help, please ask a member of the Jetson Team or an event organize
 
 
 
-##Amazon Web Services
+## Amazon Web Services
 
 **AWS Credits -**
 
@@ -51,9 +51,9 @@ Once you have credit, you can activate it by doing the following:
 
 
 
-##Recommended Resources (Free)
+## Recommended Resources (Free)
 
-###For Developers
+### For Developers
 
 [Atom Text Editor](https://atom.io/) - If you're looking for a text-editor or IDE for writing code and opening files, Atom is a great place to start.
 
@@ -67,7 +67,7 @@ Once you have credit, you can activate it by doing the following:
 
 ![](https://www.getpostman.com/img/v2/postman/Postman-most-complete-toolchain.png)
 
-###For Designers
+### For Designers
 
 [Dribbble for Inspiration](https://dribbble.com/) - For inspiration on great graphics, iconography, logos, UX, mobile, chat bots and more.
 
