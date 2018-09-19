@@ -23,4 +23,3 @@ To connect, look for the network **AgileWiFi** and use the following details:
 | Username | HubHack  |
 | -------- | -------- |
 | Password | 81886024 |
-
