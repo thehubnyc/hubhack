@@ -27,7 +27,7 @@ The most important thing is for your team to sufficiently develop a solution to 
 
 1. **Ambition Of The Problem**
    - Scale and complexity of the problem being explored. 
-2. **Innovation Of The Solution **
+2. **Innovation Of The Solution**
    - Scale and novelty of the technology being used, and/or the approach taken.
 3. **Potential Impact**
    - Total impact of solution, assuming the solution is effective. 
