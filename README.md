@@ -1,4 +1,4 @@
-# Welcome To The Hub
+# Welcome To Hub Hack
 
 **Hub Hack: Beauty & Personal Care + Future of Voice Hackathon**
 
