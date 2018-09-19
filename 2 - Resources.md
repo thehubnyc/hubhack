@@ -1,12 +1,8 @@
-# Hub Hack Materials
+# Hub Hack Resources
 
 **Hub Hack: Beauty & Personal Care + Future of Voice Hackathon**
 
-
-
 Welcome to the Hub Hack September 2018! As you're hacking and developing your products, we'd like to give you some resources that will help your team along.
-
-
 
 **Sponsor Resources** - We're lucky to have a few partners for this event who have made the below tools available for use. Thank you to Jetson and AWS for your generous support! 
 

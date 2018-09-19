@@ -6,11 +6,11 @@
 
 **Presentation Details**
 
-- Teams are allotted 5 minutes maximum presentation time
-- Judges are allotted 5 minutes maximum question time
+- Teams are allotted **5 minutes maximum presentation time**
+- Judges are allotted **5 minutes maximum question time**
 - Slides or some type of visuals are highly recommended
-- You must submit your presentation to Tom.Schmitt@unilever.com by 4:45PM at the latest! 
-- If you have special requests for your presentation, we will try our best to accommodate, but you must let us know by 4:15PM.
+- You must submit your presentation to Tom.Schmitt@unilever.com by **4:45PM at the latest**! 
+- If you have **special requests for your presentation**, we will try our best to accommodate, but you must let us know by 4:15PM.
 
 **Tips For An Effective Presentation**
 

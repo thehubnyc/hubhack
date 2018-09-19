@@ -1,8 +1,6 @@
-# Full Day Schedule
+# Welcome To The Hub
 
 **Hub Hack: Beauty & Personal Care + Future of Voice Hackathon**
-
-> Welcome to The Hub!
 
 The Hub is a Digital Accelerator. It’s where we pioneer the future of marketing through through technology, existing on the edge of the possible. A few friendly reminders: 
 
